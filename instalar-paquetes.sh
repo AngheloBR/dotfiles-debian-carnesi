@@ -11,6 +11,7 @@ sudo apt install -y \
   kitty \
   feh dunst libnotify-bin \
   flameshot \
+  lightdm lightdm-gtk-greeter i3lock \
   firefox-esr \
   thunar gvfs gvfs-backends thunar-archive-plugin thunar-volman \
   tumbler ffmpegthumbnailer file-roller papirus-icon-theme \

@@ -132,3 +132,7 @@ Print
 # captura de pantalla completa (sin seleccionar)
 shift + Print
         flameshot full -c
+
+# bloquear pantalla
+super + alt + l
+        i3lock -c 0f0f12
